@@ -13,6 +13,8 @@ Login data:
 email: jakubszlachetka99@gmail.com
 password: @Dudek132
 
+to make task completed just clic on task in task list and the text will be crossed out
+
 With the api, it is best to install all of the following
 API:
 1)npm install
