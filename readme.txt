@@ -1,4 +1,5 @@
 all npm used
+With the frontend npm install should be enough but in other situation install all, it is best to install all of the following
 Frontend:
 1)npm install
 2)npm init
@@ -12,10 +13,11 @@ Login data:
 email: jakubszlachetka99@gmail.com
 password: @Dudek132
 
+With the api, it is best to install all of the following
 API:
 1)npm install
 2)npm install express
-3)-g nodemon
+3)npm install -g nodemon
 4)npm install mongoose --save
 5)npm install body-parser -- save
 6)npm install mongodb --save
